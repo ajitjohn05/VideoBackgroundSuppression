@@ -1,0 +1,2 @@
+BgrBGSuppr.py reads BGR frame and do background Suppression on it and finally returned processed BGR frame.
+To generate BGR file run YUVToBGR.py which takes YUV file and in return provides BGR file.
